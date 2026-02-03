@@ -15,7 +15,7 @@ torch>=2.0.0
 numpy>=1.21.0
 支持50系显卡
 如果环境版本不一样或者没有环境，可以直接下载我上传的运行环境包，直接点击一键启动即可
-
+地址：https://github.com/yuanlrc-beta/Qwen-tts/releases/tag/%E4%B8%80%E9%94%AE%E8%BF%90%E8%A1%8C%E5%8C%85
 运行截图：
 <img width="1296" height="889" alt="image" src="https://github.com/user-attachments/assets/c73034b9-1d50-4f7c-8fd0-13b47dee1dcf" />
 <img width="1296" height="889" alt="image" src="https://github.com/user-attachments/assets/5e7c9d10-c551-4f75-9cae-3d7e250dee47" />
